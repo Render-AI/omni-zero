@@ -10,6 +10,12 @@ pinned: false
 license: gpl-3.0
 ---
 
+## **Announcement:** Omni-Zero Couples is now live
+[https://github.com/okaris/omni-zero-couples](https://github.com/okaris/omni-zero-couples)
+
+[![Buy me a coffee](https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=&slug=vk654cf2pv8&button_colour=BD5FFF&font_colour=ffffff&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00)](https://www.buymeacoffee.com/vk654cf2pv8)
+
+
 # Omni-Zero: A diffusion pipeline for zero-shot stylized portrait creation. 
 - [x] Release single person code
 - [x] Build Gradio app
@@ -17,7 +23,7 @@ license: gpl-3.0
 - [x] Add Replicate demo
 - [x] Add Replicate cog example
 - [x] Add fal.ai Workflow v2 (LoRA support)
-- [ ] Release couples code
+- [x] Release couples code
 - [ ] Add LoRA support
 
 ## Try our free demo on StyleOf [https://styleof.com/s/remix-yourself](https://styleof.com/s/remix-yourself)
